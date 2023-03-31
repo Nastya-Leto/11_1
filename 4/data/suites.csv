@@ -1,0 +1,8 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Mar 31 06:22:32 GMT 2023","Fri Mar 31 06:22:34 GMT 2023","2678","","leto.nastya.StepsTest","","leto.nastya.StepsTest","testAnnotatedStep","testAnnotatedStep()",""
+"passed","Fri Mar 31 06:22:34 GMT 2023","Fri Mar 31 06:22:37 GMT 2023","2840","","leto.nastya.StepsTest","","leto.nastya.StepsTest","testLambdaStep","testLambdaStep()",""
+"passed","Fri Mar 31 06:22:24 GMT 2023","Fri Mar 31 06:22:24 GMT 2023","2","","leto.nastya.LabelsTest","","leto.nastya.LabelsTest","testStaticLabels","Создание Issue для авторизванного пользователя",""
+"passed","Fri Mar 31 06:22:19 GMT 2023","Fri Mar 31 06:22:22 GMT 2023","3770","","leto.nastya.AttachmentTest","","leto.nastya.AttachmentTest","testLambdaAttachment","testLambdaAttachment()",""
+"passed","Fri Mar 31 06:22:23 GMT 2023","Fri Mar 31 06:22:24 GMT 2023","1547","","leto.nastya.AttachmentTest","","leto.nastya.AttachmentTest","testAnnotatedAttachment","testAnnotatedAttachment()",""
+"failed","Fri Mar 31 06:22:24 GMT 2023","Fri Mar 31 06:22:32 GMT 2023","7481","","leto.nastya.SelenideTest","","leto.nastya.SelenideTest","testIssueSearch","testIssueSearch()",""
+"passed","Fri Mar 31 06:22:24 GMT 2023","Fri Mar 31 06:22:24 GMT 2023","1","","leto.nastya.LabelsTest","","leto.nastya.LabelsTest","testDynamicLabels","testDynamicLabels()",""
